@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-20a10f4fbb8fe0fe45be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "matplotlib_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "animation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-animation-Debug-a3abac093e315570f034.json",
+					"name" : "animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bar-Debug-dfb464168b73e5e93af9.json",
+					"name" : "bar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "basic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basic-Debug-550bdc718c82a87f6352.json",
+					"name" : "basic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "colorbar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-colorbar-Debug-b3f4d69e71546df4f59c.json",
+					"name" : "colorbar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "contour::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-contour-Debug-6fbc10baa177f2328ee9.json",
+					"name" : "contour",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fill::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fill-Debug-ccf1545c62e40edb9640.json",
+					"name" : "fill",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fill_inbetween::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fill_inbetween-Debug-7a6bef6c78d4037301cb.json",
+					"name" : "fill_inbetween",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lines3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lines3d-Debug-f4951f6197ceffe00df9.json",
+					"name" : "lines3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "minimal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-minimal-Debug-9271ee1f4a59dd422784.json",
+					"name" : "minimal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "modern::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-modern-Debug-3d4ef8111305f862d039.json",
+					"name" : "modern",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nonblock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nonblock-Debug-c412cdc41168d40bdd4a.json",
+					"name" : "nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spy-Debug-766eb4ea48f724ded0c9.json",
+					"name" : "spy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "subplot2grid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-subplot2grid-Debug-03c3560fc0cf32d82cc2.json",
+					"name" : "subplot2grid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "surface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-surface-Debug-a04a9f425e64c4cce7c1.json",
+					"name" : "surface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update-Debug-db25a4c30f6804319cd5.json",
+					"name" : "update",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xkcd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xkcd-Debug-af53e5652025dbc9c441.json",
+					"name" : "xkcd",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Desktop/Kalkulus UAS/out/build/x64-Debug",
+		"source" : "D:/Desktop/Kalkulus UAS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

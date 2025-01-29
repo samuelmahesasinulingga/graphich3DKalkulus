@@ -1,0 +1,5 @@
+ g++ graph3d.cpp -o graph3d -I"C:/Python312/include" -I"C:/Python312/Lib/site-packages/numpy/_core/include" -L"C:/Python312/libs" -lpython312
+.\algo
+
+Notes : 
+nama "graph3d" ganti dengan nama file ada

@@ -1,0 +1,3 @@
+D:/Desktop/Kalkulus UAS/out/install/x64-Debug/include/matplotlibcpp.h
+D:/Desktop/Kalkulus UAS/out/install/x64-Debug/lib/matplotlib_cpp/cmake/matplotlib_cppTargets.cmake
+D:/Desktop/Kalkulus UAS/out/install/x64-Debug/lib/matplotlib_cpp/cmake/matplotlib_cppConfig.cmake
